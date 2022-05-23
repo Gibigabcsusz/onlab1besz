@@ -471,5 +471,5 @@ pe1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public
 sfrm0800.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0900.p
 fb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/tex
 live/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on onlab1besz.pdf (12 pages, 355568 bytes).
+Output written on onlab1besz.pdf (12 pages, 355569 bytes).
 Transcript written on onlab1besz.log.
